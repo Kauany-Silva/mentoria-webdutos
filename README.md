@@ -1,5 +1,5 @@
 # Mentoria WebDutos
-
+## Grupo: Kauany Silva, Livia Paiva, Maria Julia, Yasmin Salgado
 Repositório destinado a testes, estudos e desafios da mentoria com a WebDutos.
 
 ---
